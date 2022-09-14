@@ -1,0 +1,33 @@
+.bg{
+    background-color: rgba(119, 66, 66, 0.842);
+    position: fixed;
+    top: 5px;
+    padding: 0px;
+}
+.logo{
+    font-family: "Audiowide", sans-serif;
+    font-size: 35px;
+    padding: 0px;
+}
+.heading{
+   
+    text-align: left;
+    font-size: 25px;
+    font-weight: 800;
+    color: #fff;
+    font-family:"cursive";
+    padding: 0 20px ;
+}
+.nav-ul{
+    margin: auto;
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: fangsong;
+    color: white;
+    padding: 10px 20px 0px 20px;
+}
+.btnsearch{
+    color: #fff;
+}
